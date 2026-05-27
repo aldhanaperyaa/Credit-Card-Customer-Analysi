@@ -12,36 +12,17 @@ Excel
 Dashboard Pages
 
 Overview Dashboard
-<iframe title="Slide 1 - Overview"
-width="800"
-height="600"
-src="Slide 1 - Overview.png"
-frameborder="0"
-allowFullScreen="true"></iframe>
+   <img width="1919" height="725" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/ac7eaf28-068f-4c5e-b7e8-486d406202a7" />
 
 Customer Analysis
-<iframe title="Slide 1 - Overview"
-width="800"
-height="600"
-src="Slide 1 - Overview.png"
-frameborder="0"
-allowFullScreen="true"></iframe>
+   <img width="1919" height="725" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/ac7eaf28-068f-4c5e-b7e8-486d406202a7" />
 
 Spending Trends
-<iframe title="Slide 1 - Overview"
-width="800"
-height="600"
-src="Slide 1 - Overview.png"
-frameborder="0"
-allowFullScreen="true"></iframe>
+   <img width="1919" height="725" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/ac7eaf28-068f-4c5e-b7e8-486d406202a7" />
 
 Repayment Analysis
-<iframe title="Slide 1 - Overview"
-width="800"
-height="600"
-src="Slide 1 - Overview.png"
-frameborder="0"
-allowFullScreen="true"></iframe>
+   <img width="1919" height="725" alt="dashboard_preview png" src="[https://github.com/user-attachments/assets/ac7eaf28-068f-4c5e-b7e8-486d406202a7](https://github.com/aldhanaperyaa/Credit-Card-Customer-Analysi/blob/2e6dbb23d2633fd5119b7f22118bbaeec04b3bab/Slide%204%20-%20Spend%20Analysis.png)" />
+
 
 Key Insights
 High-value customers contributed a significant portion of total revenue
