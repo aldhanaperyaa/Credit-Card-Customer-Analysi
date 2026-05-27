@@ -12,7 +12,7 @@ Excel
 Dashboard Pages
 
 Overview Dashboard
-   <img width="1919" height="725" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/ac7eaf28-068f-4c5e-b7e8-486d406202a7" />
+   <img width="1919" height="725" alt="dashboard_preview png" src="Slide 1 - Overview.png" />
 
 Customer Analysis
    <img width="1919" height="725" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/ac7eaf28-068f-4c5e-b7e8-486d406202a7" />
