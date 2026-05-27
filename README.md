@@ -21,7 +21,7 @@ Spending Trends
    <img width="1919" height="725" alt="dashboard_preview png" src="Slide 4 - Spend Analysis.png" />
 
 Repayment Analysis
-   <img width="1919" height="725" alt="Slide 3 - Repayment  Analysis.png" />
+   <img width="1919" height="725" alt="dashboard_preview png" src="Slide 3 - Repayment  Analysis.png" />
 
 
 Key Insights
